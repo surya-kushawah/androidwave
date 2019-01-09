@@ -2,30 +2,4 @@
 AndroidWave — Android & iOS Developer Blog
 Although, AndroidWave — is demonstrate android & iOS programming tutorials for beginner and expert with advanced topics along with full source code at the single place. I'm always trying to fill in the gap between documentation and real implementation. We always ready to help for the developer. There are few more popular article written by us. I think everyone must take a look.
 
-Getting images from Gallery/Camera using MVP
-
-Pagination in RecyclerView
-
-Capture Image from Camera & Gallery
-
-Format DateTime in Android
-
-Git tutorials for beginners
-
-Play Youtube Video in ExoPlayer
-
-Useful tools for logging & debugging in Android
-
-Android Multi-Language Support Best Practices
-
-Switch Camera in Camera2 API Android
-
-Youtube player in RecyclerView in Android
-
-Video Streaming ExoPlayer in Android
-
-ExoPlayer in RecyclerView in android
-
-Camera2 API Android, Audio Video out of Sync in Issue
-
-Video Recording with Camera2 API in Android
+<a href="https://androidwave.com/getting-images-from-gallery-camera-using-mvp/" data-href="https://androidwave.com/getting-images-from-gallery-camera-using-mvp/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Getting images from Gallery/Camera using MVP</a></p><p name="eeab" id="eeab" class="graf graf--p graf-after--p"><a href="https://androidwave.com/pagination-in-recyclerview/" data-href="https://androidwave.com/pagination-in-recyclerview/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Pagination in RecyclerView</a></p><p name="a6ef" id="a6ef" class="graf graf--p graf-after--p"><a href="https://androidwave.com/capture-image-from-camera-gallery/" data-href="https://androidwave.com/capture-image-from-camera-gallery/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Capture Image from Camera &amp; Gallery</a></p><p name="9018" id="9018" class="graf graf--p graf-after--p"><a href="https://androidwave.com/format-datetime-in-android/" data-href="https://androidwave.com/format-datetime-in-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Format DateTime in Android</a></p><p name="20a0" id="20a0" class="graf graf--p graf-after--p"><a href="https://androidwave.com/git-tutorials-for-beginners/" data-href="https://androidwave.com/git-tutorials-for-beginners/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Git tutorials for beginners</a></p><p name="35e6" id="35e6" class="graf graf--p graf-after--p"><a href="https://androidwave.com/play-youtube-video-in-exoplayer/" data-href="https://androidwave.com/play-youtube-video-in-exoplayer/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Play Youtube Video in ExoPlayer</a></p><p name="1a64" id="1a64" class="graf graf--p graf-after--p"><a href="https://androidwave.com/useful-tools-for-logging-debugging-in-android/" data-href="https://androidwave.com/useful-tools-for-logging-debugging-in-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Useful tools for logging &amp; debugging in Android</a></p><p name="17ee" id="17ee" class="graf graf--p graf-after--p"><a href="https://androidwave.com/android-multi-language-support-best-practices/" data-href="https://androidwave.com/android-multi-language-support-best-practices/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Android Multi-Language Support Best Practices</a></p><p name="5ba4" id="5ba4" class="graf graf--p graf-after--p"><a href="https://androidwave.com/switch-camera-in-camera2-api-android/" data-href="https://androidwave.com/switch-camera-in-camera2-api-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Switch Camera in Camera2 API Android</a></p><p name="e19d" id="e19d" class="graf graf--p graf-after--p"><a href="https://androidwave.com/youtube-player-in-recyclerview-in-android/" data-href="https://androidwave.com/youtube-player-in-recyclerview-in-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Youtube player in RecyclerView in Android</a></p><p name="17a9" id="17a9" class="graf graf--p graf-after--p"><a href="https://androidwave.com/video-streaming-exoplayer-in-android/" data-href="https://androidwave.com/video-streaming-exoplayer-in-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Video Streaming ExoPlayer in Android</a></p><p name="7aed" id="7aed" class="graf graf--p graf-after--p"><a href="https://androidwave.com/exoplayer-in-recyclerview-in-android/" data-href="https://androidwave.com/exoplayer-in-recyclerview-in-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">ExoPlayer in RecyclerView in android</a></p><p name="3cce" id="3cce" class="graf graf--p graf-after--p"><a href="https://androidwave.com/audio-video-out-of-sync-in-camera2-api-android/" data-href="https://androidwave.com/audio-video-out-of-sync-in-camera2-api-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Camera2 API Android, Audio Video out of Sync in Issue</a></p><p name="d07a" id="d07a" class="graf graf--p graf-after--p graf--trailing"><a href="https://androidwave.com/video-recording-with-camera2-api-android/" data-href="https://androidwave.com/video-recording-with-camera2-api-android/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Video Recording with Camera2 API in Android</a></p></div>
